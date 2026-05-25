@@ -1,0 +1,80 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1779469153819,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/MWHFYupLlG"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1779288252107,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/XgUdqqBuYO"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1779277623898,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/WnRmepzZmb"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1779277500867,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ecpcPqY5i4"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Furguston",
+      "uniqueId": "ec87d019-2175-47e6-8f80-7eb2bd381e1a"
+    },
+    "time": 1779276516339,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/bQs4txgnuP"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1779114746112,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/xHnuAjyzYP"
+    }
+  }
+]

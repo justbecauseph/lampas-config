@@ -1,0 +1,33 @@
+# Production Launch Day Config for High-Concurrency (200+ Players)
+
+# CRITICAL RAM & CPU SAVING: Disable dynamic splitting for launch.
+# When true, if an airship breaks or is cut in half, Sable runs an intensive flood-fill 
+# graph search to split the physics grid into two distinct entities. With 200 players, 
+# a few airship crashes occurring simultaneously will trigger severe thread stalls.
+sub_level_splitting = false
+
+# Heatmap steps per tick if splitting were enabled. Set to a conservative value 
+# just in case a sub-mod attempts to force a grid evaluation.
+sub_level_splitting_heatmap_steps = 50
+
+# CRITICAL NETWORK PROTECTION: Lower tracking range from 320.0 to 80.0 blocks.
+# This aligns the physics engine tracking bubble with your 4-5 chunk view distance limit.
+# Players will only process and receive network updates for airships they can actually see.
+sub_level_tracking_range = 80.0
+
+# Keep boundaries bounded safely
+sub_level_remove_min = -10000.0
+sub_level_remove_max = 100000.0
+
+# Physics retention properties (Keep defaults)
+sub_level_velocity_retained_on_load = 0.9
+sub_level_punch_strength_multiplier = 2.1
+sub_level_punch_downward_strength_multiplier = 0.175
+sub_level_punch_cooldown_ticks = 3
+
+# HIGH-PERFORMANCE NETWORKING (MUST STAY ENABLED)
+# Sable's custom UDP pipeline bypasses Netty's standard TCP overhead to rapidly stream 
+# position arrays. If you disable this, raw TCP overhead for physics syncing will 
+# instantly disconnect your player base under high loads.
+disable_udp_pipeline = false
+attempt_udp_networking = true

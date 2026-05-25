@@ -1,0 +1,12 @@
+{
+  "max_name_length": 16,
+  "operators_bypass_restrictions": true,
+  "display_above_player": false,
+  "enable_formatting": true,
+  "require_permissions": true,
+  "blacklisted_names": [
+    "nigga",
+    "pedo",
+    "pedophile"
+  ]
+}
