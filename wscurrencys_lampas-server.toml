@@ -1,0 +1,8 @@
+#Enable currency consumption
+EnableCurrencyConsumption = true
+#Cost multiplier for currency calculation
+# Default: 1.0
+# Range: 0.0 ~ 1000000.0
+CostMultiplier = 1.0
+#The base coin item ID to use for cost calculations (e.g., 'lightmanscurrency:coin_emerald')
+BaseCurrencyCoin = "lightmanscurrency:coin_emerald"
