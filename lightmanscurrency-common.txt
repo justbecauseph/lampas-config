@@ -23,7 +23,7 @@ debugLevel=0
 	#Whether Tax Blocks can be crafted.
 	#Disabling will not remove any existing Tax Blocks from the world, nor prevent their use.
 	#Default: true
-	canCraftTaxCollector=true
+	canCraftTaxCollector=false
 	#Whether ATM Cards can be crafted.
 	#Disabling will not remove any existing ATM Cards from the world, nor prevent their use.
 	#Default: false
@@ -45,22 +45,22 @@ debugLevel=0
 		[crafting.coin_mint.mint]
 			#Whether the default mint recipe to mint copper coins from copper ingots will be loaded.
 			#Default: true
-			copper=true
+			copper=false
 			#Whether the default mint recipe to mint iron coins from iron ingots will be loaded.
 			#Default: true
-			iron=true
+			iron=false
 			#Whether the default mint recipe to mint gold coins from gold ingots will be loaded.
 			#Default: true
-			gold=true
+			gold=false
 			#Whether the default mint recipe to mint emerald coins from emeralds will be loaded.
 			#Default: true
 			emerald=true
 			#Whether the default mint recipe to mint diamond coins from diamonds will be loaded.
 			#Default: true
-			diamond=true
+			diamond=false
 			#Whether the default mint recipe to mint netherite coins from netherite ingots will be loaded.
 			#Default: true
-			netherite=true
+			netherite=false
 		#Specific Melting Options
 		#Does nothing if 'canMelt' is already false/disabled.
 		[crafting.coin_mint.melt]
@@ -110,13 +110,13 @@ debugLevel=0
 	#Whether the Chocolate Event Coins will be added to the coin data.
 	#Note: Disabling will not remove any Chocolate Coin items that already exist, this simply makes them no longer function as money
 	#Default: true
-	chocolate=true
+	chocolate=false
 	#Whether custom events defined in the 'SeasonalEvents.json' config can give players the one-time reward for logging in during the event.
 	#Default: true
-	startingRewards=true
+	startingRewards=false
 	#Whether custom events can replace a portion (or all) of the default loot with custom event loot.
 	#Default: true
-	lootReplacements=true
+	lootReplacements=false
 #Villager Related Settings
 #Note: Any changes to villagers requires a full reboot to be applied due to how Minecraft/Forge registers trades.
 [villagers]
@@ -212,7 +212,7 @@ debugLevel=0
 		[loot.entities.lists]
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/entity/tier1" loot table.
 			#Requires a player kill to trigger coin drops.
-			T1=["minecraft:slime","minecraft:silverfish","alexsmobs:cosmic_cod","alexsmobs:fly","alexsmobs:raccoon","alexsmobs:stradpole"]
+			T1=["minecraft:slime","alexsmobs:cosmic_cod","alexsmobs:fly","alexsmobs:raccoon","alexsmobs:stradpole"]
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/entity/tier2" loot table.
 			#Requires a player kill to trigger coin drops.
 			T2=["minecraft:zombie","minecraft:skeleton","minecraft:creeper","minecraft:spider","minecraft:cave_spider","minecraft:husk","minecraft:stray","minecraft:zombie_villager","minecraft:drowned","alexsmobs:bone_serpent","alexsmobs:anaconda","alexsmobs:froststalker","alexsmobs:rattlesnake","alexsmobs:rockey_roller","alexsmobs:skreecher","alexsmobs:soul_vulture","alexsmobs:tarantula_hawk"]

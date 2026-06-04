@@ -5,6 +5,19 @@
       "name": "namae_kun",
       "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
     },
+    "time": 1780346727938,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/89CZY9cVRc"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
     "time": 1780257331917,
     "type": "Profiler",
     "data": {
