@@ -210,7 +210,7 @@
 	#If they are unable to pay this fee, they will not be able to submit any auctions
 	#See the wiki for Money Value format: https://github.com/Lightman314/LightmansCurrency/wiki/Money-Value-Arguments
 	#Default: "null;empty"
-	auctionSubmitFee="null;empty"
+	auctionSubmitFee="coin;5-lightmanscurrency:coin_emerald"
 	#Whether the auction fees collected should be stored in the server-wide tax collector as taxes
 	#Includes both the submission fee and the fee taken from the final bid
 	#Useful for those who wish to keep track of auction fees collected, and/or don't want money to destroyed in this process
@@ -304,7 +304,7 @@
 	#If a machine reaches a total tax rate of 100% it will forcibly prevent all monetary interactions until this is resolved.
 	#Range: 1 -> 99
 	#Default: 25
-	maxTaxRate=25
+	maxTaxRate=5
 	#The maximum radius of a Tax Collectors area in meters.
 	#Range: 16 -> 2147483647
 	#Default: 256

@@ -23,11 +23,11 @@ debugLevel=0
 	#Whether Tax Blocks can be crafted.
 	#Disabling will not remove any existing Tax Blocks from the world, nor prevent their use.
 	#Default: true
-	canCraftTaxCollector=false
+	canCraftTaxCollector=true
 	#Whether ATM Cards can be crafted.
 	#Disabling will not remove any existing ATM Cards from the world, nor prevent their use.
 	#Default: false
-	canCraftATMCard=false
+	canCraftATMCard=true
 	#Coin Mint Crafting
 	[crafting.coin_mint]
 		#Whether the Coin Mint machine can be crafted.
