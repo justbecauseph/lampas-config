@@ -23,7 +23,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 # 
 threadPoolPriority = "default"
 # (Default: 3) Configures the parallelism of global executor
-globalExecutorParallelism = 1
+globalExecutorParallelism = 3
 
 [fixes]
 	# (Default: true) Enforces safe world random access.  
@@ -67,7 +67,7 @@ globalExecutorParallelism = 1
 	# Chunk upgrades from pre-1.18 versions are not implemented and will
 	# fall back to the unoptimized version of density functions.
 	# 
-	useDensityFunctionCompiler = "default"
+	useDensityFunctionCompiler = true
 	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen
 	# (may cause incompatibility with other mods)
 	optimizeAquifer = "default"
@@ -141,7 +141,7 @@ globalExecutorParallelism = 1
 	# This option will attempt to aggressively unload unused chunks.
 	# Only applies when useLegacyScheduling is disabled.
 	# 
-	lowMemoryMode = true
+	lowMemoryMode = false
 	# (Default: true) Whether to delay full chunk events to after full chunk future have been completed
 	# This restores the buggy behavior in NeoForge that the ecosystem have been relying on
 	# 
@@ -176,7 +176,7 @@ globalExecutorParallelism = 1
 [noTickViewDistance]
 	# (Default: true) Whether to enable no-tick view distance
 	enabled = false
-	# (Default: 2) No-tick view distance max concurrent chunk loads 
+	# (Default: 4) No-tick view distance max concurrent chunk loads 
 	#  Lower this for a better latency and higher this for a faster loading
 	maxConcurrentChunkLoads = 2
 	# (Default: true) Whether to use compatibility mode to send chunks 
