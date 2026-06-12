@@ -1,0 +1,4 @@
+minecraft:sounds/ambient/underwater/enter3.ogg
+minecraft:sounds/ambient/underwater/enter2.ogg
+minecraft:sounds/ambient/underwater/enter1.ogg
+minecraft:sounds/ambient/underwater/underwater_ambience.ogg

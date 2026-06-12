@@ -1,0 +1,8 @@
+type = user_variables
+
+variable {
+  name = new_bulletin_post
+  value = 1
+  reset_on_launch = false
+}
+
