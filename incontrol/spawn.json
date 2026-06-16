@@ -1,0 +1,11 @@
+[
+  {
+    "mob": "naturalist:butterfly",
+    "maxcount": {
+      "amount": 20,
+      "mob": "naturalist:butterfly",
+      "perplayer": true
+    },
+    "result": "deny"
+  }
+]
