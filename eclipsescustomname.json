@@ -3,10 +3,22 @@
   "operators_bypass_restrictions": true,
   "display_above_player": false,
   "enable_formatting": true,
-  "require_permissions": true,
+  "require_permissions": false,
   "blacklisted_names": [
     "nigga",
     "pedo",
-    "pedophile"
+    "pedophile",
+    "child",
+    "gay",
+    "retard",
+    "nibba",
+    "fucker",
+    "cuck",
+    "bitch",
+    "cock",
+    "island",
+    "epstein",
+    "trump",
+    "putin"
   ]
 }

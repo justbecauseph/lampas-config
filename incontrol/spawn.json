@@ -7,5 +7,21 @@
       "perplayer": true
     },
     "result": "deny"
+  },
+  {
+    "mob": "minecraft:villager",
+    "maxcount": {
+      "amount": 30,
+      "mob": "minecraft:villager"
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:iron_golem",
+    "maxcount": {
+      "amount": 20,
+      "mob": "minecraft:iron_golem"
+    },
+    "result": "deny"
   }
 ]
