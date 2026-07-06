@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "mob": "minecraft:enderman",
+    "multxp": 0.4
+  },
+  {
+    "mob": "minecraft:zombified_piglin",
+    "multxp": 0.3
+  }
+]

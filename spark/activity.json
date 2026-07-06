@@ -5,6 +5,277 @@
       "name": "namae_kun",
       "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
     },
+    "time": 1783118181753,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/3eJ25w9cda"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1783116616792,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4rCVCZ5eU4"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1783116229708,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/SBMvQB3jk0"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1783115685366,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/thIbrCti6w"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1783114852738,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/JwUm4qTwtd"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1783113984814,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/tWGa53Wh1C"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Furgster",
+      "uniqueId": "c32afc76-45b4-4697-affa-f9c586b7f171"
+    },
+    "time": 1783113238662,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/CkWMQqOHXY"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1783111625299,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/FjY2IGITfj"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1783095799185,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/DEyPeiZKNQ"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Rcon"
+    },
+    "time": 1782945720445,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "/home/minecraft/config/spark/profile-2026-07-01_15.42.00.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Rcon"
+    },
+    "time": 1782945585068,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/FoVfqjLx5M"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1782934455703,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/HZ5rIN8FHX"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1782604686844,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ozigkMkAyt"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1782604030002,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/VWkdzNycGx"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1782564560622,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/QhV4bz4MJl"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1782346522848,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/sEeO791eQr"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1782291310129,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/cv5vmvZ1ny"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Furguston",
+      "uniqueId": "ec87d019-2175-47e6-8f80-7eb2bd381e1a"
+    },
+    "time": 1782181854339,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/jz8UBUM7wM"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1782007490796,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/yAdmUMMyAs"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1781965831739,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/aUQb7WiXod"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
+    "time": 1781904036519,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "/home/minecraft/config/spark/profile-2026-06-19_14.20.36.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "namae_kun",
+      "uniqueId": "8cd8ddea-9067-4bf8-b41b-5e06858bda6e"
+    },
     "time": 1781785937371,
     "type": "Profiler",
     "data": {

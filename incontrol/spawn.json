@@ -23,5 +23,43 @@
       "mob": "minecraft:iron_golem"
     },
     "result": "deny"
+  },
+  {
+    "mob": "minecraft:zombified_piglin",
+    "dimension": "minecraft:the_nether",
+    "minheight": 128,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:enderman",
+    "random": 0.5,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:enderman",
+    "maxcount": {
+      "amount": 40,
+      "mob": "minecraft:enderman",
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:piglin",
+    "maxcount": {
+      "amount": 25,
+      "mob": "minecraft:piglin",
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:creeper",
+    "maxcount": {
+      "amount": 50,
+      "mob": "minecraft:creeper",
+      "perplayer": true
+    },
+    "result": "deny"
   }
 ]

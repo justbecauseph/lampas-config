@@ -1,4 +1,46 @@
 {
-  "Traders": [],
+  "Traders": [
+    {
+      "Type": "lightmanscurrency:item_trader",
+      "ID": "trader_1",
+      "Name": "Trader",
+      "OwnerName": "Minecraft",
+      "Trades": [
+        {
+          "TradeType": "BARTER",
+          "SellItem": {
+            "id": "minecraft:player_head",
+            "count": 1,
+            "components": {
+              "minecraft:profile": {
+                "name": "Furgster",
+                "id": [
+                  -1020593034,
+                  1169442455,
+                  -1342506555,
+                  -2034765455
+                ],
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMCwKICAicHJvZmlsZUlkIiA6ICJjMzJhZmM3NjQ1YjQ0Njk3YWZmYWY5YzU4NmI3ZjE3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGdXJnc3RlciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82OTgyNjY1N2Q4YzU4MGIyOTZkOGZhMWZmMjhhZTBjOTIxYmU0Nzk4ZmY1NjY4OGMxOWY1ZTMxNDc2OGQxMjFiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+                  }
+                ]
+              },
+              "minecraft:custom_name": "{\"bold\":false,\"color\":\"dark_aqua\",\"extra\":[{\"bold\":false,\"color\":\"dark_red\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"ta\",\"underlined\":false},{\"bold\":false,\"color\":\"dark_aqua\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"la Pl\",\"underlined\":false},{\"bold\":false,\"color\":\"dark_red\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"us\",\"underlined\":false},{\"bold\":false,\"color\":\"dark_aqua\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"hi\",\"underlined\":false},{\"bold\":false,\"color\":\"dark_red\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"e\",\"underlined\":false}],\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Ba\",\"underlined\":false}"
+            }
+          },
+          "SellItem2": {
+            "id": "lampas_overrides:lampia_cheese_slice",
+            "count": 12
+          },
+          "BarterItem": {
+            "id": "lightmanscurrency:coin_emerald",
+            "count": 8
+          }
+        }
+      ]
+    }
+  ],
   "Auctions": []
 }

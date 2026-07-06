@@ -229,7 +229,7 @@
 	#Rate of 0.01 is equal to a 1% interest rate.
 	#Range: 0.0 -> 1.0
 	#Default: 0.0
-	interest=0.05
+	interest=0.03
 	#Whether interest applied to small amounts of money are guaranteed to give at least *some* money as long as there's money in the account.
 	#Example 1% interest applied to a bank account with only 1 copper coin will always give *at least* 1 copper coin.
 	#Default: true
